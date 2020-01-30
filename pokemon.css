@@ -1,0 +1,48 @@
+body {
+	font-family: Times New Roman;
+	background-image: url(images/bulbasaur.jfif);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+div {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	padding-top: 30px ;
+	padding-bottom: 30px ;
+	border:30px  ;
+	background-color: rgb(38,95,193,0.5);
+
+}
+
+h1 {
+ Font-family: Times New Roman;	
+ color: #001ADF ;
+ text-align: center;
+ text-shadow: 5px 5px 15px #CCD1F8;
+ text-align: center;
+}
+
+h2 {
+	font-family: times new roman;
+	text-shadow: 0px -5px 15px #CCD1F8;
+	color:#001ADF;
+	text-align: center;
+}
+
+h3 {
+	font-family: times new roman;
+	text-shadow: 0px -5px 15px #CCD1F8;
+	color: #001ADF;
+	text-align: center;
+}
+
+p {
+	font-family: times new roman;
+	color: #CCD1F8;
+	text-shadow: 0px -5px 20px white;
+}
